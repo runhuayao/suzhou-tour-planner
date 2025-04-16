@@ -1,0 +1,8 @@
+{
+    "baidu_map": {
+        "ak": "t4ouFikoxRGerQhUPo0wNncHBj9gJvYp",
+        "timeout": 5000,
+        "coord_type": "bd09ll",
+        "output": "json"
+    }
+} 

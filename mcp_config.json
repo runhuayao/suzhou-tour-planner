@@ -1,0 +1,7 @@
+{
+    "mcp_server": {
+        "port": 3025,
+        "package": "@agentdeskai/browser-tools-server@1.2.0",
+        "auto_start": true
+    }
+} 
