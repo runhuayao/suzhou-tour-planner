@@ -3,8 +3,9 @@
 基于 Streamlit 和高德地图 API 开发的旅游规划工具。
 
 ## 功能特点
-
+                                                                                          
 - 苏州景点地图展示
+- ![image](https://github.com/user-attachments/assets/1f8138c7-840d-460c-ae09-4047cf2a2164)
 - 智能路线规划
 - 实时路况查看
 - 多种地图视图切换
